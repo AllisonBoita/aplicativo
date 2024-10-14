@@ -1,0 +1,11 @@
+// Gradle: Configurações e automatização. Gestão de dependências.
+
+Módulos: Posso ter mais de um
+EX: Uber passageiro e motorista.
+
+No gradle posso separar as configurações globalmente ou separar por módulos também.
+
+XML: Define estrutura para que possamos fazer configurações.
+XML utiliza TAGS.
+
+AndroidManifest.xml = Permissões de câmera, por exemplo. Definir ícone do APP, nome do APP. Define também qual é a activity principal.
